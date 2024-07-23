@@ -1,2 +1,1 @@
-# perser_pep
-Парсер с использованием BeatufilSoup4
+# Проект парсинга pep
